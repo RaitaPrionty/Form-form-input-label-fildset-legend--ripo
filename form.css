@@ -1,0 +1,28 @@
+h1{
+    font-weight: 800;
+    color: aqua;
+    background-color: black;
+    border: 3px solid black;
+}
+label{
+    display: block;
+    font-size: larger;
+    margin-bottom: 10px;
+}
+span{
+    color: palevioletred;
+    font-weight: 900;
+}
+fieldset{
+    margin: 10px;
+}
+*{
+    /* border: 10px solid palevioletred; */
+}
+form{
+    border: 10px solid palevioletred;
+}
+*{
+    color: aqua;
+    background-color: black;
+}
